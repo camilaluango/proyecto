@@ -1,0 +1,1 @@
+let base =parseInt(prompt("ingresa el numero base"))
