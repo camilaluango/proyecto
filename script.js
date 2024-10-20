@@ -1,0 +1,1 @@
+let nota1 = parseInt(prompt("ingresa la primera nota"))
