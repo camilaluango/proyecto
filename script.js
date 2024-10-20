@@ -9,3 +9,5 @@ function potencia(base , exp){
     }
     return resultado;
 }
+
+document.write(`el resultado obtenido es: ${potencia(base,exp)}`)
